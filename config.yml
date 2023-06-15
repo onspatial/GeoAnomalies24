@@ -71,7 +71,7 @@ params:
     "Spatially Explicit COVID-19 Prediction Models"]
 
   organizer:
-    general_chair: ["Andreas Züfle (George Mason University)"]
+    general_chair: ["Andreas Züfle (Emory University)"]
     pc_chair: ["Taylor Anderson (George Mason University)", 
     "Joon-Seok Kim (Pacific Northwest National Laboratory)", 
     "Amira Roess (George Mason University)"]
@@ -88,13 +88,13 @@ params:
   #contact:
   
   speakers:
-     - name: "Matthew Scotch, College of Health Solutions, Arizona State University"
-       photo: "https://datascience.cancer.gov/sites/default/files/2019-10/Matthew%20Scotch%2C%20Ph.D%2C%20MPH_WMD.jpg"
-       company: "Arizona State University"
+     - name: "TO BE ANNOUNCED"
+       photo: "TO BE ANNOUNCED"
+       company: "TO BE ANNOUNCED"
        talk: 
-         title: "Genomic epidemiology and bioinformatics for evolution and spread of RNA viruses"
+         title: "TO BE ANNOUNCED"
     #     abstrct: ""
-         bio: "Matthew Scotch is Assistant Dean of Research and Professor of Biomedical Informatics in the College of Health Solutions. He is also Assistant Director of the Biodesign Center for Environmental Health Engineering at Arizona State University. His research focuses on genomic epidemiology and bioinformatics of RNA viruses with a particular interest in influenza A viruses. Current projects include studying approaches to advance genomic epidemiology by enrichment of virus sequence metadata (funding: NIH/NIAID 1R01AI164481-01A1) and analysis of viruses from wastewater using bioinformatics (funding: NIH/NLM U01LM013129). The latter is partially funded by the NIH RADx-rad initiative. His lab group is also interested in the molecular epidemiology of viruses including the amplification and sequencing of influenza A and B viruses for short and long-read high-throughput sequencing (HTS) and public health surveillance."
+         bio: "TO BE ANNOUNCED"
     #     href: "#schedule"
   schedule:
      - title: "Openning remarks"
