@@ -13,7 +13,7 @@ params:
   # Price: "Only $100" # If your event is free, just comment this line
   Venue: "TBA"
   Address: "TBA"
-  City:  "Hamburg"- name:
+  City:  "Hamburg"
   State: "Germany"
   Images: ["/img/logo.jpg"]
   big_logo: "/images/acmsigspatial-full.png"
