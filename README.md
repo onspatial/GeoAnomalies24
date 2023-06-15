@@ -1,4 +1,5 @@
-## Build the Website and publish to GitHub.io page using GitHub
+# GitHub:
+## Build the Website and publish to GitHub.io page
 
 The website source code is at the `main` branch and the compiled code is at the `gh-page` branch
 
@@ -8,7 +9,7 @@ The website source code is at the `main` branch and the compiled code is at the 
 4. Go to 'config.yml' and edit the baseurl to "https://yourGitHubUserName.github.io/youRepositoryName/"
 5. Check the URL; it might take a while for the repo to be compiled and published to the url.
 
-
+# Local Machine
 ## Building the website
 
 1. Install [Hugo](https://gohugo.io/getting-started/installing/)
