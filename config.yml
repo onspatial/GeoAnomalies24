@@ -1,5 +1,5 @@
-baseurl: "https://dataoceanlab.github.io/spatial-epi-2022"
-title: "International Workshop on Spatial Computing for Epidemiology@ACM SIGSPATIAL 2022"
+baseurl: "https://haenter.github.io/spatial-epi-2023/"
+title: "International Workshop on Spatial Computing for Epidemiology@ACM SIGSPATIAL 2023"
 canonifyurls: true
 theme: "hugo-conference"
 
@@ -7,9 +7,9 @@ GoogleAnalytics: ""
 
 params:
   # Conference info
-  Name: "SpatialEpi@ACM SIGSPATIAL 2022"
-  Description: "International Workshop on Spatial Computing for Epidemiology@ACM SIGSPATIAL 2022"
-  Date: "November 1, 2022, Pacific Time"
+  Name: "SpatialEpi@ACM SIGSPATIAL 2023"
+  Description: "International Workshop on Spatial Computing for Epidemiology@ACM SIGSPATIAL 2023"
+  Date: "November 1, 2023, Pacific Time"
   # Price: "Only $100" # If your event is free, just comment this line
   Venue: "TBA"
   Address: "TBA"
