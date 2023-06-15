@@ -1,0 +1,157 @@
+baseurl: "https://dataoceanlab.github.io/spatial-epi-2022"
+title: "International Workshop on Spatial Computing for Epidemiology@ACM SIGSPATIAL 2022"
+canonifyurls: true
+theme: "hugo-conference"
+
+GoogleAnalytics: ""
+
+params:
+  # Conference info
+  Name: "SpatialEpi@ACM SIGSPATIAL 2022"
+  Description: "International Workshop on Spatial Computing for Epidemiology@ACM SIGSPATIAL 2022"
+  Date: "November 1, 2022, Pacific Time"
+  # Price: "Only $100" # If your event is free, just comment this line
+  Venue: "TBA"
+  Address: "TBA"
+  City:  "Seattle"
+  State: "Washington"
+  Images: ["/img/logo.jpg"]
+  big_logo: "/images/acmsigspatial-full.png"
+
+  # Active sections on the website to deactivate comment out with '#'
+  # you can also change order here and it will reflect on page
+  Sections:
+    - intro
+    - organizer    
+    - speakers
+    - schedule    
+    - location
+    - cfp
+    - deadline
+  #  - contact
+
+  # Titles which you can translate to other languages
+  Titles:
+    intro: "About"
+    location: "Location"
+    cfp: "Call For Papers"
+    organizer: "Organization Committee"
+    speakers: "Speakers"
+    schedule: "Schedule"
+    deadline: "Important Dates"
+    # sponsors: "Sponsors"
+    # partners: "Partners"
+    contact: "Instructions for Authors"
+
+  # The Call To Action button at the header,
+  # If you don't want this, just remove the callToAction property.
+  CallToAction:
+    text: "Register now"
+    link: ""
+
+  intro:
+    text: "The 3rd ACM SIGSPATIAL International Workshop on Spatial Computing for Epidemiology (SpatialEpi’22) focuses on all aspects of modeling, simulating, mining, and understanding the spatial processes and patterns of the spread of COVID-19 and other infectious diseases. This cross-disciplinary workshop is a forum to bring together researchers in the SIGSPATIAL community as well as researchers in epidemiology. Also, this workshop is of interest to everyone who works with infectious disease data and models (not necessarily COVID19). In addition to paper presentations, this workshop will feature invited speakers keynotes from experts across the SIGSPATIAL community and epidemiology."
+
+  cfp:
+    text: "The workshop seeks high-quality full (8-10 pages) and short (4 pages) papers that have not been published in other academic outlets and are not concurrently under peer review. Once accepted, at least one author is required to register for the workshop and the ACM SIGSPATIAL conference, as well as attend the workshop to present the accepted work which will then appear in the ACM Digital Library. As SpatialEpi papers appear in the ACM SIGSPATIAL proceedings we follow the same submission process. Submission details can be found at https://sigspatial2022.sigspatial.org/camera-ready/. Following the main-conference, we also allow full papers to have a two-page appendix beyond the ten pages limit."
+    url: "https://dataoceanlab.github.io/spatial-epi-2022/files/SpatialEpi_CfP22.pdf"
+    keywords: ["Contact Tracing", 
+    "COVID-19 Tracking and Data Collection", 
+    "COVID-19 Data Cleaning and Wrangling", 
+    "Disease Spread Simulation", "COVID-19 Data Mining", 
+    "Managing Uncertainty in COVID-19 Data", 
+    "COVID-19 Data Query Processing", "Mapping and Visual Analytics of COVID-19", 
+    "COVID-19 Effects on Human Mobility", 
+    "Prescriptive Analytics for COVID-19", 
+    "COVID-19 Hotspot Detection", 
+    "Socioeconomic Impact of COVID-19", 
+    "COVID-19 Simulation and Modeling", 
+    "Spatial Analysis of COVID-19", 
+    "COVID-19 and Social Media", 
+    "Spatially Explicit COVID-19 Prediction Models"]
+
+  organizer:
+    general_chair: ["Andreas Züfle (George Mason University)"]
+    pc_chair: ["Taylor Anderson (George Mason University)", 
+    "Joon-Seok Kim (Pacific Northwest National Laboratory)", 
+    "Amira Roess (George Mason University)"]
+    pc_member: ["Song Gao (University of Wisconsin-Madison)","Alexander Hohl (The University of Utah)", "Yiqun Xie (University of Minnesota)", "Hamdi Kavak (George Mason University)", Di Yang (University of Wyoming), Zipei Fan (The University of Tokyo), Ignacio Segovia-Dominguez	(University of Texas at Dallas), Jia Yu (Washington State University), Michael Desjardins (Johns Hopkins Bloomberg School of Public Health)]
+
+
+  deadline:
+    submission: "September 06, 2022 (anywhere on earth) (extended)"
+    notification: "September 28, 2022 (anywhere on earth)"
+    camera ready: "To be announced"
+    workshopdate: "November 01, 2022 (9AM-1PM Seattle Time)"
+    submissionsite: "https://easychair.org/conferences/?conf=spatialepi22"
+    
+  #contact:
+  
+  speakers:
+     - name: "Matthew Scotch, College of Health Solutions, Arizona State University"
+       photo: "https://datascience.cancer.gov/sites/default/files/2019-10/Matthew%20Scotch%2C%20Ph.D%2C%20MPH_WMD.jpg"
+       company: "Arizona State University"
+       talk: 
+         title: "Genomic epidemiology and bioinformatics for evolution and spread of RNA viruses"
+    #     abstrct: ""
+         bio: "Matthew Scotch is Assistant Dean of Research and Professor of Biomedical Informatics in the College of Health Solutions. He is also Assistant Director of the Biodesign Center for Environmental Health Engineering at Arizona State University. His research focuses on genomic epidemiology and bioinformatics of RNA viruses with a particular interest in influenza A viruses. Current projects include studying approaches to advance genomic epidemiology by enrichment of virus sequence metadata (funding: NIH/NIAID 1R01AI164481-01A1) and analysis of viruses from wastewater using bioinformatics (funding: NIH/NLM U01LM013129). The latter is partially funded by the NIH RADx-rad initiative. His lab group is also interested in the molecular epidemiology of viruses including the amplification and sequencing of influenza A and B viruses for short and long-read high-throughput sequencing (HTS) and public health surveillance."
+    #     href: "#schedule"
+  schedule:
+     - title: "Openning remarks"
+       time: "11-01 09:00-09:05"
+       abstract: ""
+       file: "Frontmatter_SpatialEpi22.pdf"
+       
+       
+       
+       authors: ""
+       
+       
+     - title: "Keynote: Genomic epidemiology and bioinformatics for evolution and spread of RNA viruses"
+       
+       
+       
+       authors: "Matthew Scotch"
+       time: "11-01 09:05-09:50"
+    #   beijing: "11-02 21:05"      
+    #   abstract: "Our workshop’s objective is to provide professionals, researchers, and practitioners interested in deriving human movement patterns from location data. We use a sample of our Weekly and Monthly Patterns and Core Places products to perform market research on a potential new coffee shop location. How far are customers willing to travel for coffee? What location will receive the most visibility? Where do most of the coffee customers come from? We’ll address these concerns and more in building a market analysis proposal in real time."
+    #   file:
+     - title: "Understanding the Spatiotemporal Heterogeneities in the Associations between COVID-19 infections and both Human Mobility and Close Contacts in the United States (Best Paper Award)"
+       authors: "Wen Ye, Song Gao"
+       file: "paper_1.pdf"
+       time: "11-01 09:50-10:15"
+     - title: "Break"      
+       time: "11-01 10:15-10:45"
+     - title: "Spatiotemporal Disease Case Prediction using Contrastive Predictive Coding"
+       authors: "Anish Susarla, Austin Liu, Duy Hoang Thai, Minh Tri Le, Andreas Züfle"
+       time: "11-01 10:45-11:10"
+       file: "paper_4.pdf"
+     - title: "MultiMaps: a tool for decision-making support in the analyzes of multiple epidemics"
+       authors: "Gesiel Rios Lopes, Roberto Fray da Silva, Cláudio Bielenki Júnior, Sérgio Henrique Vannucchi Leme de Mattos, Denise Scatolini, Filippo Ghiglieno, Alexandre C. B. Delbem, Antonio Mauro Saraiva"
+       time: "11-01 11:10-11:30"
+       file: "paper_3.pdf"
+     - title: "Microscopic Modeling of Spatiotemporal Epidemic Dynamics"
+       authors: "Tilemachos Pechlivanoglou, Gian Alix, Nina Yanin, Jing Li, Farzaneh Heidari, Manos Papagelis"
+       time: "11-01 11:30-11:55"
+       file: "paper_2.pdf"
+     - title: "Using mobile network data to color epidemic risk maps"
+       authors: "Elisa Cabana, Andra Lutu, Enrique Frias-Martinez, Nikolaos Laoutaris"
+       time: "11-01 11:55-12:20"
+       file: "paper_5.pdf"
+     - title: "Closing Remarks"
+       time: "11-01 12:20"
+       
+       
+    #   beijing: "11-02 22:20"      
+    #   abstract: "Our workshop’s objective is to provide professionals, researchers, and practitioners interested in deriving human movement patterns from location data. We use a sample of our Weekly and Monthly Patterns and Core Places products to perform market research on a potential new coffee shop location. How far are customers willing to travel for coffee? What location will receive the most visibility? Where do most of the coffee customers come from? We’ll address these concerns and more in building a market analysis proposal in real time."
+    #   file: "paper_5.pdf"
+    # - title: "Developing a clustering environment for real time tracking and analysis of Covid-19 case clusters"
+    #   time: "11-02 10:35"
+    #   beijing: "11-02 22:35"      
+    #   abstract: "Our workshop’s objective is to provide professionals, researchers, and practitioners interested in deriving human movement patterns from location data. We use a sample of our Weekly and Monthly Patterns and Core Places products to perform market research on a potential new coffee shop location. How far are customers willing to travel for coffee? What location will receive the most visibility? Where do most of the coffee customers come from? We’ll address these concerns and more in building a market analysis proposal in real time."
+    #   file: "paper_1.pdf"
+    # - title: "Closing Remarks"
+    #   time: "11-02 10:55"
+    #   beijing: "11-02 22:55"      
+    #   abstract: "Our workshop’s objective is to provide professionals, researchers, and practitioners interested in deriving human movement patterns from location data. We use a sample of our Weekly and Monthly Patterns and Core Places products to perform market research on a potential new coffee shop location. How far are customers willing to travel for coffee? What location will receive the most visibility? Where do most of the coffee customers come from? We’ll address these concerns and more in building a market analysis proposal in real time."
+    #   file:
