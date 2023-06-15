@@ -87,70 +87,7 @@ params:
   #contact:
   
   speakers:
-     - name: "TO BE ANNOUNCED"
-       photo: "TO BE ANNOUNCED"
-       company: "TO BE ANNOUNCED"
-       talk: 
-         title: "TO BE ANNOUNCED"
-    #     abstrct: ""
-         bio: "TO BE ANNOUNCED"
-    #     href: "#schedule"
+    
   schedule:
-     - title: "Openning remarks"
-       time: "11-01 09:00-09:05"
-       abstract: ""
-       file: "Frontmatter_SpatialEpi22.pdf"
-       
-       
-       
-       authors: ""
-       
-       
-     - title: "Keynote: Genomic epidemiology and bioinformatics for evolution and spread of RNA viruses"
-       
-       
-       
-       authors: "Matthew Scotch"
-       time: "11-01 09:05-09:50"
-    #   beijing: "11-02 21:05"      
-    #   abstract: "Our workshop’s objective is to provide professionals, researchers, and practitioners interested in deriving human movement patterns from location data. We use a sample of our Weekly and Monthly Patterns and Core Places products to perform market research on a potential new coffee shop location. How far are customers willing to travel for coffee? What location will receive the most visibility? Where do most of the coffee customers come from? We’ll address these concerns and more in building a market analysis proposal in real time."
-    #   file:
-     - title: "Understanding the Spatiotemporal Heterogeneities in the Associations between COVID-19 infections and both Human Mobility and Close Contacts in the United States (Best Paper Award)"
-       authors: "Wen Ye, Song Gao"
-       file: "paper_1.pdf"
-       time: "11-01 09:50-10:15"
-     - title: "Break"      
-       time: "11-01 10:15-10:45"
-     - title: "Spatiotemporal Disease Case Prediction using Contrastive Predictive Coding"
-       authors: "Anish Susarla, Austin Liu, Duy Hoang Thai, Minh Tri Le, Andreas Züfle"
-       time: "11-01 10:45-11:10"
-       file: "paper_4.pdf"
-     - title: "MultiMaps: a tool for decision-making support in the analyzes of multiple epidemics"
-       authors: "Gesiel Rios Lopes, Roberto Fray da Silva, Cláudio Bielenki Júnior, Sérgio Henrique Vannucchi Leme de Mattos, Denise Scatolini, Filippo Ghiglieno, Alexandre C. B. Delbem, Antonio Mauro Saraiva"
-       time: "11-01 11:10-11:30"
-       file: "paper_3.pdf"
-     - title: "Microscopic Modeling of Spatiotemporal Epidemic Dynamics"
-       authors: "Tilemachos Pechlivanoglou, Gian Alix, Nina Yanin, Jing Li, Farzaneh Heidari, Manos Papagelis"
-       time: "11-01 11:30-11:55"
-       file: "paper_2.pdf"
-     - title: "Using mobile network data to color epidemic risk maps"
-       authors: "Elisa Cabana, Andra Lutu, Enrique Frias-Martinez, Nikolaos Laoutaris"
-       time: "11-01 11:55-12:20"
-       file: "paper_5.pdf"
-     - title: "Closing Remarks"
-       time: "11-01 12:20"
-       
-       
-    #   beijing: "11-02 22:20"      
-    #   abstract: "Our workshop’s objective is to provide professionals, researchers, and practitioners interested in deriving human movement patterns from location data. We use a sample of our Weekly and Monthly Patterns and Core Places products to perform market research on a potential new coffee shop location. How far are customers willing to travel for coffee? What location will receive the most visibility? Where do most of the coffee customers come from? We’ll address these concerns and more in building a market analysis proposal in real time."
-    #   file: "paper_5.pdf"
-    # - title: "Developing a clustering environment for real time tracking and analysis of Covid-19 case clusters"
-    #   time: "11-02 10:35"
-    #   beijing: "11-02 22:35"      
-    #   abstract: "Our workshop’s objective is to provide professionals, researchers, and practitioners interested in deriving human movement patterns from location data. We use a sample of our Weekly and Monthly Patterns and Core Places products to perform market research on a potential new coffee shop location. How far are customers willing to travel for coffee? What location will receive the most visibility? Where do most of the coffee customers come from? We’ll address these concerns and more in building a market analysis proposal in real time."
-    #   file: "paper_1.pdf"
-    # - title: "Closing Remarks"
-    #   time: "11-02 10:55"
-    #   beijing: "11-02 22:55"      
-    #   abstract: "Our workshop’s objective is to provide professionals, researchers, and practitioners interested in deriving human movement patterns from location data. We use a sample of our Weekly and Monthly Patterns and Core Places products to perform market research on a potential new coffee shop location. How far are customers willing to travel for coffee? What location will receive the most visibility? Where do most of the coffee customers come from? We’ll address these concerns and more in building a market analysis proposal in real time."
-    #   file:
+       - title: "TO BE ANNOUNCED"
+         time: "TO BE ANNOUNCED"
