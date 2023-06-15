@@ -6,7 +6,7 @@
 3. It's done. Just start Hugo server to see it live!
 
         hugo server
-4. Open your browser: http://localhost:1313/covid19-workshop/
+4. Open your browser: http://localhost:1313/spatial-epi-2023/
 
 ## Configure the website
 
