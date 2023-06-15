@@ -13,8 +13,8 @@ params:
   # Price: "Only $100" # If your event is free, just comment this line
   Venue: "TBA"
   Address: "TBA"
-  City:  "Seattle"
-  State: "Washington"
+  City:  "Hamburg"
+  State: "Germany"
   Images: ["/img/logo.jpg"]
   big_logo: "/images/acmsigspatial-full.png"
 
@@ -50,11 +50,11 @@ params:
     link: ""
 
   intro:
-    text: "The 3rd ACM SIGSPATIAL International Workshop on Spatial Computing for Epidemiology (SpatialEpi’22) focuses on all aspects of modeling, simulating, mining, and understanding the spatial processes and patterns of the spread of COVID-19 and other infectious diseases. This cross-disciplinary workshop is a forum to bring together researchers in the SIGSPATIAL community as well as researchers in epidemiology. Also, this workshop is of interest to everyone who works with infectious disease data and models (not necessarily COVID19). In addition to paper presentations, this workshop will feature invited speakers keynotes from experts across the SIGSPATIAL community and epidemiology."
+    text: "The 4th ACM SIGSPATIAL International Workshop on Spatial Computing for Epidemiology (SpatialEpi’23) focuses on all aspects of modeling, simulating, mining, and understanding the spatial processes and patterns of the spread of COVID-19 and other infectious diseases. This cross-disciplinary workshop is a forum to bring together researchers in the SIGSPATIAL community as well as researchers in epidemiology. Also, this workshop is of interest to everyone who works with infectious disease data and models (not necessarily COVID19). In addition to paper presentations, this workshop will feature invited speakers keynotes from experts across the SIGSPATIAL community and epidemiology."
 
   cfp:
     text: "The workshop seeks high-quality full (8-10 pages) and short (4 pages) papers that have not been published in other academic outlets and are not concurrently under peer review. Once accepted, at least one author is required to register for the workshop and the ACM SIGSPATIAL conference, as well as attend the workshop to present the accepted work which will then appear in the ACM Digital Library. As SpatialEpi papers appear in the ACM SIGSPATIAL proceedings we follow the same submission process. Submission details can be found at https://sigspatial2022.sigspatial.org/camera-ready/. Following the main-conference, we also allow full papers to have a two-page appendix beyond the ten pages limit."
-    url: "https://dataoceanlab.github.io/spatial-epi-2022/files/SpatialEpi_CfP22.pdf"
+    url: "https://azufle.github.io/spatial-epi-2023/files/SpatialEpi_CfP23.pdf"
     keywords: ["Contact Tracing", 
     "COVID-19 Tracking and Data Collection", 
     "COVID-19 Data Cleaning and Wrangling", 
@@ -79,11 +79,11 @@ params:
 
 
   deadline:
-    submission: "September 06, 2022 (anywhere on earth) (extended)"
-    notification: "September 28, 2022 (anywhere on earth)"
+    submission: "August 22, 2023 (anywhere on earth)"
+    notification: "September 22, 2023 (anywhere on earth)"
     camera ready: "To be announced"
-    workshopdate: "November 01, 2022 (9AM-1PM Seattle Time)"
-    submissionsite: "https://easychair.org/conferences/?conf=spatialepi22"
+    workshopdate: "Monday November 13, 2023"
+    submissionsite: "To be announced"
     
   #contact:
   
