@@ -20,19 +20,7 @@
 <thead>
 </thead>
 <tbody>
-  {{ range $pc_chair_index, $pc_chair := .organizer.<h5>Web Chair</h5>
-
-<table class="tg">
-<thead>
-</thead>
-<tbody>
-  {{ range $webchair_index, $webchair := .organizer.webchair }}
-  <td class="tg-r3w3">{{ $webchair }}</td>
-  <!-- Control the number of columns per row -->
-    {{ if  eq (mod $webchair_index 2) 1 }}<tr></tr>{{ end }}
-  {{ end }}
-</tbody>
-</table>pc_chair }}
+  {{ range $pc_chair_index, $pc_chair := .organizer.pc_chair }}
   <td class="tg-r3w3">{{ $pc_chair }}</td>
   <!-- Control the number of columns per row -->
     {{ if  eq (mod $pc_chair_index 2) 1 }}<tr></tr>{{ end }}
