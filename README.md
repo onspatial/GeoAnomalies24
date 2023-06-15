@@ -1,3 +1,14 @@
+## Build the Website and publish to GitHub.io page using GitHub
+
+The website source code is at the `main` branch and the compiled code is at the `gh-page` branch
+
+1. Clone the project to your repository    
+2. Go to repository setting -> find the GitHub Pages
+3. Set the branch to `gh-page` and save it.
+4. Go to 'config.yml' and edit the baseurl to "https://yourGitHubUserName.github.io/youRepositoryName/"
+5. Check the URL; it might take a while for the repo to be compiled and published to the url.
+
+
 ## Building the website
 
 1. Install [Hugo](https://gohugo.io/getting-started/installing/)
