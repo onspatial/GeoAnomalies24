@@ -2,6 +2,8 @@ baseurl: "https://azufle.github.io/spatial-epi-2023/"
 title: "International Workshop on Spatial Computing for Epidemiology@ACM SIGSPATIAL 2023"
 canonifyurls: true
 theme: "hugo-conference"
+blackfriday:
+    unsafe: true
 
 GoogleAnalytics: ""
 
