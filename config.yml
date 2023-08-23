@@ -80,8 +80,12 @@ params:
 
     
   deadline:
-    submission: "~~August 22, 2023~~ Extended: September 5, 2023 (anywhere on earth)"
-    notification: "September 22, 2023 (anywhere on earth)"
+    submission: 
+      original: "August 22, 2023"
+      extended: "September 5, 2023 (anywhere on earth)"
+    notification: 
+      original: "September 22, 2023"
+      extended: "October 6, 2023 (anywhere on earth)"
     camera ready: "To be announced"
     workshopdate: "Monday November 13, 2023"
     submissionsite: "https://easychair.org/my/conference?conf=spatialepi23"
