@@ -109,7 +109,7 @@ params:
          time: "15:30-15:35"
          file: "Frontmatter.pdf"
        - title: "Keynote"
-         authors: "Max Lau"
+         authors: "Max Lau, , Biostatistics, Rollins School of Public Health, Emory University"
          bio: "Biostatistics, Rollins School of Public Health, Emory University"
          time: "15:35-16:30"
        - title: "Optimal Risk-aware POI Recommendations during Epidemics"
