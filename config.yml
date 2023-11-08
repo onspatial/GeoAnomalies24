@@ -105,5 +105,23 @@ params:
 
        
   schedule:
-       - title: "TO BE ANNOUNCED"
-         time: "TO BE ANNOUNCED"
+       - title: "Opening Remarks"
+         time: "15:35-16:30"
+         #file: "Foreword"
+       - title: "Keynote"
+         authors: "Max Lau"
+         bio: "Biostatistics, Rollins School of Public Health, Emory University"
+         #file: "Biostatistics"
+         time: "15:35-16:30"
+         #file: "paper_4.pdf"\
+       - title: "Optimal Risk-aware POI Recommendations during Epidemics"
+         author: "Nina Yanin, Manos Papagelis"
+         time: "16:30-16:50"
+         #file:"
+       - title: "EPIPOL: An Epidemiological Patterns of Life Simulation (Demonstration Paper)"
+         author: "Will Kohn, Hossein Amiri, Andreas Züfle"
+         time: "16:50-17:10"
+       - title: "Closing Remarks"
+         time: "17:10-17:15"
+         
+            
