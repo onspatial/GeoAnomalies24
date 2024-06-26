@@ -9,7 +9,7 @@ GoogleAnalytics: ""
 
 params:
   # Conference info
-  Name: "GeoAnomalies@ACM SIGSPATIAL 2024"
+  Name: "GeoAnomalies@ ACM SIGSPATIAL 2024"
   Description: "International Workshop on Spatial Computing for Geospatial Anomaly Detection @ACM SIGSPATIAL 2024"
   Date: "October 29, 2024"
   # Price: "Only $100" # If your event is free, just comment this line
