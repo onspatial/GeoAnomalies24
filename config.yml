@@ -55,7 +55,7 @@ params:
     text: "The 1st ACM SIGSPATIAL International Workshop on Geospatial Anomaly Detection (GeoAnomalies’24) aims to bring together researchers and industry experts to discuss the latest advancements, challenges, and applications in the field of anomaly detection within spatial, geospatial, and spatiotemporal data. The workshop will foster collaboration and knowledge sharing among participants from a wide spectrum of research areas, including machine learning, time series analysis, statistics, remote sensing, geospatial analysis, and trajectory analysis, and therefore will provide a platform for a rich and diverse exchange of ideas."
 
   cfp:
-    text: "The workshop seeks high-quality full (8-10 pages) and short (4 pages) papers that have not been published in other academic outlets and are not concurrently under peer review. Once accepted, at least one author is required to register for the workshop and the ACM SIGSPATIAL conference, as well as attend the workshop to present the accepted work which will then appear in the ACM Digital Library. As GeoAnomalies papers appear in the ACM SIGSPATIAL proceedings we follow the same submission process. Submission details can be found at https://sigspatial2024.sigspatial.org/camera-ready/. Following the main-conference, we also allow full papers to have a two-page appendix beyond the ten pages limit."
+    text: "The workshop seeks high-quality full (8-10 pages) and short (4 pages) papers that have not been published in other academic outlets and are not concurrently under peer review. Once accepted, at least one author is required to register for the workshop and the ACM SIGSPATIAL conference, as well as attend the workshop to present the accepted work which will then appear in the ACM Digital Library. As GeoAnomalies papers appear in the ACM SIGSPATIAL proceedings we follow the same submission process. Submission details can be found at https://easychair.org/conferences/?conf=sigspatial2024. Following the main-conference, we also allow full papers to have a two-page appendix beyond the ten pages limit."
     url: "https://azufle.github.io/spatial-epi-2023/files/SpatialEpi2023.pdf"
     keywords: ["Theoretical Foundations of Geospatial Anomaly Detection", 
     "Machine Learning for Geospatial Anomaly Detection", 
@@ -89,7 +89,7 @@ params:
     notification: "September 16, 2024"
     camera ready: "October 4, 2024"
     workshopdate: "October 29, 2024"
-    submissionsite: "https://easychair.org/my/conference?conf=spatialepi24"
+    submissionsite: "https://easychair.org/conferences/?conf=sigspatial2024"
     studentgrant: "To be announced"
 
     
