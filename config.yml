@@ -65,9 +65,9 @@ params:
     "Benchmarking and Evaluation"]
 
   organizer:
-    general_chair: ["Yu-Ke Li (Tulane University)","Carola Wenk (Tulane University)","Andreas Züfle (Emory University)"]
+    general_chair: ["Yu-Ke Li, Tulane University)","Carola Wenk, Tulane University","Andreas Züfle, Emory University"]
     pc_chair: [
-    "Yao-Yi Chiang (University of Minnesota)", "Enrico Mattei (Expedition Technology)","Khurram Shafique (Novateur Research Solutions)"
+    "Yao-Yi Chiang, University of Minnesota", "Enrico Mattei, Expedition Technology","Khurram Shafique, Novateur Research Solutions"
     ]
     pc_member: ["Leman Akoglu, Carnegie Mellon University",
     "Qunying Huang, University of Wisconsin Madison",
@@ -80,7 +80,7 @@ params:
 
     
     ]
-    webchair: ["Yueyang Liu (Emory University)"]
+    webchair: ["Yueyang Liu, Emory University"]
 
     
   deadline:
