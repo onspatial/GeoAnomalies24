@@ -87,7 +87,7 @@ params:
   deadline:
     submission: "August 23, 2024"
     notification: "September 16, 2024"
-    camera ready: "October 4, 2024"
+    camera: "October 4, 2024"
     workshopdate: "October 29, 2024"
     submissionsite: "https://easychair.org/conferences/?conf=sigspatial2024"
     studentgrant: "To be announced"
