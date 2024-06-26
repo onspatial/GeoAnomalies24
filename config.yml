@@ -67,7 +67,7 @@ params:
   organizer:
     general_chair: ["Andreas Züfle (Emory University)","Carola Wenk (Tulane University)","Yu-Ke Li (Tulane University)",]
     pc_chair: [
-    "Khurram Shafique (Novateur Research Solutions)", "Enrico Mattei (Expedition Technology)"
+    "Khurram Shafique (Novateur Research Solutions)", "Enrico Mattei (Expedition Technology)","Yao-Yi Chiang (University of Minnesota)"
     ]
     pc_member: ["Leman Akoglu, Carnegie Mellon University",
     "Erich Schubert, Technical University of Dortmund",
@@ -85,8 +85,8 @@ params:
 
     
   deadline:
-    submission: "August 23, 2024"
-    notification: "September 16, 2024"
+    submission: "August 16, 2024"
+    notification: "September 14, 2024"
     camera: "October 4, 2024"
     workshopdate: "October 29, 2024"
     submissionsite: "https://easychair.org/conferences/?conf=sigspatial2024"
