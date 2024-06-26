@@ -15,9 +15,9 @@ params:
   # Price: "Only $100" # If your event is free, just comment this line
   Venue: "TBA"
   Address: "TBA"
-  City:  "Atlnata,Georgia"
-  State: "US"
-  Images: ["/img/logo.jpg"]
+  City:  "Atlanta,Georgia"
+  State: "United States"
+  Images: ["/img/logo.png"]
   big_logo: "/images/acmsigspatial-full.png"
 
   # Active sections on the website to deactivate comment out with '#'
