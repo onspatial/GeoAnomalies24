@@ -1,4 +1,4 @@
-[https://azufle.github.io/spatial-epi-2023/](https://onspatial.github.io/GeoAnomalies24/)
+[Link](https://onspatial.github.io/GeoAnomalies24/)
 # Use GitHub:
 ## Build the Website and publish to GitHub.io page
 
