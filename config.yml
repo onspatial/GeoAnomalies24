@@ -9,13 +9,13 @@ GoogleAnalytics: ""
 
 params:
   # Conference info
-  Name: "SpatialEpi@ACM SIGSPATIAL 2023"
+  Name: "GeoAnomalies@ACM SIGSPATIAL 2024"
   Description: "International Workshop on Spatial Computing for Geospatial Anomaly Detection@ACM SIGSPATIAL 2024"
-  Date: "Monday November 13, 2023"
+  Date: "November, 2024"
   # Price: "Only $100" # If your event is free, just comment this line
   Venue: "TBA"
   Address: "TBA"
-  City:  "Atlnata,GA"
+  City:  "Atlnata,Georgia"
   State: "US"
   Images: ["/img/logo.jpg"]
   big_logo: "/images/acmsigspatial-full.png"
