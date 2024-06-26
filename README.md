@@ -1,4 +1,4 @@
-https://azufle.github.io/spatial-epi-2023/
+[https://azufle.github.io/spatial-epi-2023/](https://onspatial.github.io/GeoAnomalies24/)
 # Use GitHub:
 ## Build the Website and publish to GitHub.io page
 
@@ -10,16 +10,7 @@ The website source code is at the `main` branch and the compiled code is at the 
 4. Go to 'config.yml' and edit the baseurl to "https://yourGitHubUserName.github.io/youRepositoryName/"
 5. Check the URL; it might take a while for the repo to be compiled and published to the url.
 
-# Use Local Machine:
-## Building the website
 
-1. Install [Hugo](https://gohugo.io/getting-started/installing/)
-
-
-3. It's done. Just start Hugo server to see it live!
-
-        hugo server
-4. Open your browser: http://localhost:1313/spatial-epi-2023/
 
 ## Configure the website
 
@@ -29,14 +20,3 @@ Everytime when you change a place, Hugo will automatically refresh your browser.
 2. Change the cover image: replace `static/img/cover.jpg`
 3. Change all other content: Edit `config.yml`
 
-
-
-## Publish to GitHub.io page
-
-The website source code is at the master branch
-
-1. Compile the source code in the master branch by running the following commnd the terminial: ```hugo ```
-       
-2. Copy the content in the generated folder `public` and push it the "gh-page" branch.
-
-The website will be published in a few seconds once you push the content to "gh-page" branch.
