@@ -1,5 +1,5 @@
 baseurl: "https://onspatial.github.io/GeoAnomalies24/"
-title: "International Workshop on Spatial Computing for Geospatial Anomaly Detection <br> @ACM SIGSPATIAL 2024"
+title: "International Workshop on Spatial Computing for Geospatial Anomaly Detection @ACM SIGSPATIAL 2024"
 canonifyurls: true
 theme: "hugo-conference"
 blackfriday:
