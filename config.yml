@@ -65,15 +65,17 @@ params:
     "Benchmarking and Evaluation"]
 
   organizer:
-    general_chair: ["Yu-Ke Li, Tulane University"," ","Carola Wenk, Tulane University"," ","Andreas Züfle, Emory University"]
+    general_chair: ["Yu-Ke Li, Tulane University"," ","Khurram Shafique, Novateur Research Solutions"," ","Carola Wenk, Tulane University"," ","Andreas Züfle, Emory University"]
     pc_chair: [
-    "Yao-Yi Chiang, University of Minnesota", " ","Enrico Mattei, Expedition Technology"," ","Khurram Shafique, Novateur Research Solutions"
+    "Yao-Yi Chiang, University of Minnesota", " ","Jack Cooper, National Geospatial-Intelligence Agency"," ","Enrico Mattei, Expedition Technology"
     ]
     pc_member: ["Leman Akoglu, Carnegie Mellon University",
     "Qunying Huang, University of Wisconsin Madison",
     "Joon-Seok Kim, Oak Ridge National Laboratory",
+    "Cory Krause, Intelligence Advanced Research Projects Activity (IARPA)"
     "Peer Kröger, University of Kiel",
     "Andreas Lohrer, University of Kiel",
+    "Chris Ovi Rouly",
     "Erich Schubert, Technical University of Dortmund",
     "Cyrus Shahabi, University of Southern California",
     "Rose Yu, University of California"
