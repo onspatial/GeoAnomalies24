@@ -25,7 +25,7 @@ params:
   Sections:
     - intro
     - organizer    
-  #  - speakers
+    - speakers
     - schedule    
     - location
     - cfp
@@ -98,35 +98,88 @@ params:
   #contact:
   
   speakers:
-     - name: "Max Lau, Biostatistics, Rollins School of Public Health, Emory University"
-       photo: "https://emoryeave.org/wp-content/uploads/MaxLau.jpeg"
-       company: "Emory University"
+     - name: "Dr. Cory Krause, Program Manager, Intelligence Advanced Research Projects Activity, Office of the Director of National Intelligence"
+       photo: "https://www.iarpa.gov/images/bios/Cory_Krause_2.jpg"
+       company: "Office of the Director of National Intelligence"
        talk: 
-         title: "ASSISTANT PROFESSOR, BIOSTATISTICS, Rollins School of Public Health"
+         title: "Program Manager, Intelligence Advanced Research Projects Activity, Office of the Director of National Intelligence"
     #     abstrct: ""
-         bio: "Dr. Max Lau is Assistant Professor at Emory University, Rollins School of Public Health in the Biostatistics Department and is jointly appointed with the Epidemiology Department.  He earned his MPhil in Public Health and statistical modeling of infectious diseases at the University of Hongkong (2011).  He obtained his Ph.D. in statistical modeling of infectious diseases at Heriot-Watt University, Edinburgh (2015).  He completed his post doc work at Princeton University (2018) and began his career at Emory University in 2019.  He has developed new Bayesian methods and modelling techniques for disease data and data integration and designs and teaches graduate level machine learning and modeling classes."
-         href: "https://emoryeave.org/bio/max-lau-phd/"
+         bio: "Dr. Cory Krause joined IARPA in February 2024 to lead scientific research on trajectory modeling and prediction. He is currently leading IARPA's efforts on the HAYSTAC program to create large-scale pattern-of-life simulations and use machine learning to both hide and seek anomalous behavior in those simulations. Dr. Krause joined the Intelligence Community in 2021 to develop trajectory-based platforms for the National Geospatial Intelligence Agency. Previously, Dr. Krause managed and supported transportation programs for the Federal Highway Administration related to connected vehicle applications. Dr. Krause graduated from the University of Maryland in 2015 with a Ph.D. in transportation engineering. His dissertation focused on mapping trip purpose and points of interests to complex paths to predict future states of large networks and individual trips. Outside of IARPA, Dr. Krause lives in Northern Virginia with his wife, daughters, and dog. He enjoys painting, all forms of exercising/training, and spending time outdoors with family. He doesn’t enjoy playing chess but can’t stop."
+         href: "https://www.iarpa.gov/who-we-are/program-managers?pm=true&keyword=Krause"
 
        
   schedule:
        - title: "Opening Remarks"
-         time: "15:30-15:35"
-         file: "Frontmatter.pdf"
+         time: "TBD"
+         file: "Fron.pdf"
+         
        - title: "Keynote"
-         authors: "Max Lau, , Biostatistics, Rollins School of Public Health, Emory University"
-         bio: "Biostatistics, Rollins School of Public Health, Emory University"
-         time: "15:35-16:30"
-       - title: "Optimal Risk-aware POI Recommendations during Epidemics"
-         authors: "Nina Yanin, Manos Papagelis"
-         time: "16:30-16:50"
+         authors: "Cory Krause, Program Manager, Intelligence Advanced Research Projects Activity, Office of the Director of National Intelligence"
+         # bio: "Biostatistics, Rollins School of Public Health, Emory University"
+         time: "TBD"
+         
+       - title: "Urban Anomalies: A Simulated Human Mobility Dataset with Injected Anomalies"
+         authors: "Hossein Amiri, Ruochen Kong and Andreas Züfle"
+         time: "TBD"
          file: "paper_1.pdf"
-       - title: "EPIPOL: An Epidemiological Patterns of Life Simulation (Demonstration Paper)"
-         authors: "Will Kohn, Hossein Amiri, Andreas Züfle"
-         time: "16:50-17:10"
+         
+       - title: "Context-aware Trajectory Anomaly Detection"
+         authors: "Haoji Hu, Jina Kim, Jinwei Zhou, Sofia Kirsanova, Janghyeon Lee and Yao-Yi Chiang"
+         time: "TBD"
          file: "paper_2.pdf"
          
+       - title: "Spatiotemporal Modeling and Forecasting at Scale with Dynamic Generalized Linear Models"
+         authors: "Pranay Pherwani, Nicholas Hass and Anna Yanchenko"
+         time: "TBD"
+         file: "paper_3.pdf"
+
+       - title: "Trajectory User Linking With Self Organizing Trees"
+         authors: "Eric Christensen, Kade Shoemaker and Steve Hardy"
+         time: "TBD"
+         file: "paper_4.pdf"
+         
+       - title: "Spatial disease anomaly detection under sparse data with stability metrics"
+         authors: "Raphaella Diniz, Renato Assuncao and Pedro Vaz-de-Melo"
+         time: "TBD"
+         file: "paper_5.pdf"
+         
+       - title: "ReeFRAME: Reeb Graph based Trajectory Analysis Framework to Capture Top-Down and Bottom-Up Patterns of Life"
+         authors: "Chandrakanth Gudavalli, Bowen Zhang, Connor Levenson, Kin Gwn Lore and B. S. Manjunath"
+         time: "TBD"
+         file: "paper_6.pdf"
+         
+       - title: "Large Language Models for Spatial Trajectory Patterns Mining"
+         authors: "Zheng Zhang, Hossein Amiri, Zhenke Liu, Liang Zhao and Andreas Züfle"
+         time: "TBD"
+         file: "paper_7.pdf"
+         
+       - title: "Back to Bayesics: Uncovering Human Mobility Distributions and Anomalies with an Integrated Statistical and Neural Framework"
+         authors: "Minxuan Duan, Yinlong Qian, Lingyi Zhao, Zihao Zhou, Zeeshan Rasheed, Rose Yu and Khurram Shafique"
+         time: "TBD"
+         file: "paper_8.pdf"
+         
+       - title: "NUMOSIM: A Synthetic Mobility Dataset with Anomaly Detection Benchmarks"
+         authors: "Chris Stanford, Suman Adari, Xishun Liao, Yueshuai He, Qinhua Jiang, Chenchen Kuai, Jiaqi Ma, Emmanuel Tung, Yinlong Qian, Lingyi Zhao, Zihao Zhou, Zeeshan Rasheed and Khurram Shafique"
+         time: "TBD"
+         file: "paper_9.pdf"
+         
+       - title: "Neural Collaborative Filtering to Detect Anomalies in Human Semantic Trajectories"
+         authors: "Yueyang Liu, Lance Kennedy, Hossein Amiri and Andreas Züfle"
+         time: "TBD"
+         file: "paper_10.pdf"
+         
+       - title: "Deep Learning for Antarctic Sea Ice Anomaly Detection and Prediction: A Two-Module Framework"
+         authors: "Maloy Kumar Devnath, Sudip Chakraborty and Vandana P. Janeja"
+         time: "TBD"
+         file: "paper_11.pdf"
+         
+       - title: "Kinematic Detection of Anomalies in Human Trajectory Data"
+         authors: "Lance Kennedy and Andreas Züfle"
+         time: "TBD"
+         file: "paper_12.pdf"
+         
        - title: "Closing Remarks"
-         time: "17:10-17:15"
+         time: "TBD"
          
             
 # cover: https://pixabay.com/photos/buildings-city-night-street-lights-4829076/
