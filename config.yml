@@ -114,7 +114,7 @@ params:
          file: "Fron.pdf"
          
        - title: "Keynote"
-         authors: "Cory Krause, Program Manager, Intelligence Advanced Research Projects Activity, Office of the Director of National Intelligence"
+         authors: "Cory Krause"
          # bio: "Biostatistics, Rollins School of Public Health, Emory University"
          time: "TBD"
          
