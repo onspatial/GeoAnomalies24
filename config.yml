@@ -112,27 +112,21 @@ params:
        - title: "Opening Remarks"
          time: "8:00-8:05"
          #file: "Fron.pdf"
-         
        - title: "Keynote"
          authors: "Cory Krause"
          # bio: "Biostatistics, Rollins School of Public Health, Emory University"
          time: "8:05-8:45"
-       
        - title: "Research Session 1: Human Mobility Anomaly Datasets"
          time: "8:45-9:15"
-       
        - title: "NUMOSIM: A Synthetic Mobility Dataset with Anomaly Detection Benchmarks"
          authors: "Chris Stanford, Suman Adari, Xishun Liao, Yueshuai He, Qinhua Jiang, Chenchen Kuai, Jiaqi Ma, Emmanuel Tung, Yinlong Qian, Lingyi Zhao, Zihao Zhou, Zeeshan Rasheed and Khurram Shafique"
          file: "paper_10.pdf"
-         
        - title: "Urban Anomalies: A Simulated Human Mobility Dataset with Injected Anomalies"
          authors: "Hossein Amiri, Ruochen Kong and Andreas Züfle"
          #time: "TBD"
          file: "paper_1.pdf"
        - title: "Break"
          time: "9:15-9:30"
-
-         
        - title: "Research Session 2: Human Mobility Modeling of Normalcy"
          time: "9:30-10:45"
        - title: "Spatiotemporal Modeling and Forecasting at Scale with Dynamic Generalized Linear Models"
@@ -146,55 +140,34 @@ params:
          authors: "Chandrakanth Gudavalli, Bowen Zhang, Connor Levenson, Kin Gwn Lore and B. S. Manjunath"
          #time: "TBD"
          file: "paper_7.pdf"
-         
        - title: "Back to Bayesics: Uncovering Human Mobility Distributions and Anomalies with an Integrated Statistical and Neural Framework"
          authors: "Minxuan Duan, Yinlong Qian, Lingyi Zhao, Zihao Zhou, Zeeshan Rasheed, Rose Yu and Khurram Shafique"
          #time: "TBD"
          file: "paper_9.pdf" 
-       
        - title: "Neural Collaborative Filtering to Detect Anomalies in Human Semantic Trajectories"
          authors: "Yueyang Liu, Lance Kennedy, Hossein Amiri and Andreas Züfle"
          #time: "TBD"
-         file: "paper_11.pdf"      
-       
-       
+         file: "paper_11.pdf"
        - title: "Break"
          time: "10:45-11:00"
-
-         
        - title: "Research Session 3: Trajectory and Behavior Anomaly Detection"
          time: "11:00-12:00" 
-       
        - title: "Context-aware Trajectory Anomaly Detection"
          authors: "Haoji Hu, Jina Kim, Jinwei Zhou, Sofia Kirsanova, Janghyeon Lee and Yao-Yi Chiang"
          #time: "TBD"
          file: "paper_2.pdf"
-         
-
-
-
-         
        - title: "Spatial disease anomaly detection under sparse data with stability metrics"
          authors: "Raphaella Diniz, Renato Assuncao and Pedro Vaz-de-Melo"
          #time: "TBD"
          file: "paper_6.pdf"
-         
-
-         
        - title: "Large Language Models for Spatial Trajectory Patterns Mining"
          authors: "Zheng Zhang, Hossein Amiri, Zhenke Liu, Liang Zhao and Andreas Züfle"
          #time: "TBD"
          file: "paper_8.pdf"
-         
-
-         
-
-         
        - title: "Deep Learning for Antarctic Sea Ice Anomaly Detection and Prediction: A Two-Module Framework"
          authors: "Maloy Kumar Devnath, Sudip Chakraborty and Vandana P. Janeja"
          #time: "TBD"
          file: "paper_12.pdf"
-         
        - title: "Kinematic Detection of Anomalies in Human Trajectory Data"
          authors: "Lance Kennedy and Andreas Züfle"
          #time: "TBD"
