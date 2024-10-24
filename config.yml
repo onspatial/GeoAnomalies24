@@ -132,7 +132,7 @@ params:
          #time: "9:30-10:45"
        - title: "Spatiotemporal Modeling and Forecasting at Scale with Dynamic Generalized Linear Models"
          authors: "Pranay Pherwani, Nicholas Hass and Anna Yanchenko"
-         time: "9:30-9:45:"
+         time: "9:30-9:45"
          file: "paper_4.pdf"
        - title: "Trajectory User Linking With Self Organizing Trees"
          authors: "Eric Christensen, Kade Shoemaker and Steve Hardy"
