@@ -1,0 +1,35 @@
+<h2 class="section-title">{{ .titles.cfp }} (<a href={{ .cfp.url }}>PDF version</a>)</h2>
+
+<p itemprop="description">{{ .cfp.text }} </p>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-r3w3{border-color:#ffffff;font-weight:normal;text-align:left;font-size:14px;
+  vertical-align:top}
+</style>
+<h5>Example topics include, but not limited to:</h5>
+<table class="tg">
+<thead>
+  
+</thead>
+<tbody>
+  {{ range $keyword_index, $keyword := .cfp.keywords }}
+  <td class="tg-r3w3">{{ $keyword }}</td>
+  <!-- Control the number of columns per row -->
+    {{ if  eq (mod $keyword_index 2) 1 }}<tr></tr>{{ end }}
+  {{ end }}
+</tbody>
+</table>
+
+<thead>
+  
+</thead>
+<br>
+
+<h5>Paper Format</h5>
+<p itemprop="description"> Accepted GeoAnomalies'24 papers will appear in the ACM SIGSPATIAL'24 Proceedings. Therefore, we follow the same formatting requirements as ACM SIGSPATIAL'24 which can be found at: <br> https://sigspatial2024.sigspatial.org/cfp/  <br> Manuscripts should be submitted in PDF format and formatted using the ACM camera-ready templates available at: <br>  http://www.acm.org/publications/proceedings-template <br>  SIGSPATIAL uses the Conference Proceedings Primary Article template with two-column format. Alterations to the template, especially to gain more space, will be grounds for administrative rejection without further technical review. Submissions to ACM SIGSPATIAL are single-blind -- i.e., the names and affiliations of the authors should be listed in the submitted version. The author list is considered to be final after the submission deadline and no changes to the author list are allowed for accepted papers.</p>
+

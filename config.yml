@@ -1,0 +1,182 @@
+baseurl: "https://onspatial.github.io/GeoAnomalies24/"
+title: "International Workshop on Spatial Computing for Geospatial Anomaly Detection @ACM SIGSPATIAL 2024"
+canonifyurls: true
+theme: "hugo-conference"
+blackfriday:
+    unsafe: true
+
+GoogleAnalytics: ""
+
+params:
+  # Conference info
+  Name: "GeoAnomalies@ ACM SIGSPATIAL 2024"
+  Description: "International Workshop on Spatial Computing for Geospatial Anomaly Detection @ACM SIGSPATIAL 2024"
+  Date: "October 29, 2024"
+  # Price: "Only $100" # If your event is free, just comment this line
+  Venue: "Georgia Tech Hotel and Conference Center"
+  Address: "Georgia Tech Hotel and Conference Center"
+  City:  "Atlanta, Georgia"
+  State: "United States"
+  Images: ["/img/logo.png"]
+  big_logo: "/images/acmsigspatial-full.png"
+
+  # Active sections on the website to deactivate comment out with '#'
+  # you can also change order here and it will reflect on page
+  Sections:
+    - intro
+    - organizer    
+    - speakers
+    - schedule    
+    - location
+    - cfp
+    - deadline
+  #  - contact
+
+  # Titles which you can translate to other languages
+  Titles:
+    intro: "About"
+    location: "Location"
+    cfp: "Call For Papers"
+    organizer: "Organization Committee"
+    speakers: "Speakers"
+    schedule: "Schedule"
+    deadline: "Important Dates"
+    # sponsors: "Sponsors"
+    # partners: "Partners"
+    contact: "Instructions for Authors"
+
+  # The Call To Action button at the header,
+  # If you don't want this, just remove the callToAction property.
+  #CallToAction:
+  #  text: "Register now"
+  #  link: ""
+
+  intro:
+    text: " The 1st ACM SIGSPATIAL International Workshop on Geospatial Anomaly Detection (GeoAnomalies’24) aims to bring together researchers and industry experts to discuss the latest advancements, challenges, and applications in the field of anomaly detection within spatial, geospatial, and spatiotemporal data. The workshop will foster collaboration and knowledge sharing among participants from a wide spectrum of research areas, including machine learning, time series analysis, statistics, remote sensing, geospatial analysis, and trajectory analysis, and therefore will provide a platform for a rich and diverse exchange of ideas. "
+
+  cfp:
+    text: "The workshop seeks high-quality full (8-10 pages) and short (4 pages) papers that have not been published in other academic outlets and are not concurrently under peer review. Once accepted, at least one author is required to register for the workshop and the ACM SIGSPATIAL conference, as well as attend the workshop to present the accepted work which will then appear in the ACM Digital Library. As GeoAnomalies papers appear in the ACM SIGSPATIAL proceedings we follow the same submission process. Submission details can be found at https://easychair.org/my/conference?conf=geoanomalies24. Following the main-conference, we also allow full papers to have a two-page appendix beyond the ten pages limit."
+    url: "https://onspatial.github.io/GeoAnomalies24/files/GeoAnomalies24.pdf"
+    keywords: ["Theoretical Foundations of Geospatial Anomaly Detection", 
+    "Machine Learning for Geospatial Anomaly Detection", 
+    "Statistical Models for Geospatial Anomaly Detection", 
+    "Complex Network Analysis", "Spatio-Temporal Modeling", 
+    "Case Studies and Real-world Applications for Anomaly Detection on Spatial Data", 
+    "Benchmarking and Evaluation"]
+
+  organizer:
+    general_chair: ["Yao-Yi Chiang, University of Minnesota"," ","Khurram Shafique, Novateur Research Solutions"," ","Carola Wenk, Tulane University"," ","Andreas Züfle, Emory University"]
+    pc_chair: [
+    "Jack Cooper, National Geospatial-Intelligence Agency", " ","Joon-Seok Kim, Emory University"," ","Enrico Mattei, Expedition Technology"
+    ]
+    pc_member: ["Leman Akoglu, Carnegie Mellon University",
+    "Qunying Huang, University of Wisconsin Madison",
+    "Cory Krause, Intelligence Advanced Research Projects Activity (IARPA)",
+    "Peer Kröger, University of Kiel",
+    "Andreas Lohrer, University of Kiel",
+    "Yu-Ke Li, Tulane University",
+    "Chris Ovi Rouly",
+    "Erich Schubert, Technical University of Dortmund",
+    "Cyrus Shahabi, University of Southern California",
+    "Rose Yu, University of California"
+
+    
+    ]
+    webchair: ["Yueyang Liu, Emory University"]
+
+    
+  deadline:
+    submission: "September 8, 2024 (Extended)"
+    notification: "September 24, 2024"
+    camera: "October 4, 2024"
+    workshopdate: "October 29, 2024"
+    submissionsite: "https://easychair.org/my/conference?conf=geoanomalies24"
+    studentgrant: "To be announced"
+
+    
+    
+  #contact:
+  
+  speakers:
+     - name: "Dr. Cory Krause, Program Manager, Intelligence Advanced Research Projects Activity, Office of the Director of National Intelligence"
+       photo: "https://www.iarpa.gov/images/bios/Cory_Krause_2.jpg"
+       company: "Office of the Director of National Intelligence"
+       talk: 
+         title: "HAYSTAC (how to advance anomaly research with no ground truth)"
+    #     abstrct: ""
+         bio: "Dr. Cory Krause joined IARPA in February 2024 to lead scientific research on trajectory modeling and prediction. He is currently leading IARPA's efforts on the HAYSTAC program to create large-scale pattern-of-life simulations and use machine learning to both hide and seek anomalous behavior in those simulations. Dr. Krause joined the Intelligence Community in 2021 to develop trajectory-based platforms for the National Geospatial Intelligence Agency. Previously, Dr. Krause managed and supported transportation programs for the Federal Highway Administration related to connected vehicle applications. Dr. Krause graduated from the University of Maryland in 2015 with a Ph.D. in transportation engineering. His dissertation focused on mapping trip purpose and points of interests to complex paths to predict future states of large networks and individual trips. Outside of IARPA, Dr. Krause lives in Northern Virginia with his wife, daughters, and dog. He enjoys painting, all forms of exercising/training, and spending time outdoors with family. He doesn’t enjoy playing chess but can’t stop."
+         #href: "https://www.iarpa.gov/who-we-are/program-managers?pm=true&keyword=Krause"
+
+       
+  schedule:
+       - title: "Opening Remarks"
+         time: "8:00-8:05"
+         #file: "Fron.pdf"
+       - title: "Keynote"
+         authors: "Cory Krause"
+         # bio: "Biostatistics, Rollins School of Public Health, Emory University"
+         time: "8:05-8:45"
+       - title: "Research Session 1: Human Mobility Anomaly Datasets"
+         #time: "8:45-9:15"
+       - title: "NUMOSIM: A Synthetic Mobility Dataset with Anomaly Detection Benchmarks"
+         authors: "Chris Stanford, Suman Adari, Xishun Liao, Yueshuai He, Qinhua Jiang, Chenchen Kuai, Jiaqi Ma, Emmanuel Tung, Yinlong Qian, Lingyi Zhao, Zihao Zhou, Zeeshan Rasheed and Khurram Shafique"
+         time: "8:45-9:00"
+         file: "paper_10.pdf"
+       - title: "Urban Anomalies: A Simulated Human Mobility Dataset with Injected Anomalies"
+         authors: "Hossein Amiri, Ruochen Kong and Andreas Züfle"
+         time: "9:00-9:15"
+         file: "paper_1.pdf"
+       - title: "Break"
+         time: "9:15-9:30"
+       - title: "Research Session 2: Human Mobility Modeling of Normalcy"
+         #time: "9:30-10:45"
+       - title: "Spatiotemporal Modeling and Forecasting at Scale with Dynamic Generalized Linear Models"
+         authors: "Pranay Pherwani, Nicholas Hass and Anna Yanchenko"
+         time: "9:30-9:45"
+         file: "paper_4.pdf"
+       - title: "Trajectory User Linking With Self Organizing Trees"
+         authors: "Eric Christensen, Kade Shoemaker and Steve Hardy"
+         time: "9:45-9:55"
+         file: "paper_5.pdf"
+       - title: "ReeFRAME: Reeb Graph based Trajectory Analysis Framework to Capture Top-Down and Bottom-Up Patterns of Life"
+         authors: "Chandrakanth Gudavalli, Bowen Zhang, Connor Levenson, Kin Gwn Lore and B. S. Manjunath"
+         time: "9:55-10:10"
+         file: "paper_7.pdf"
+       - title: "Back to Bayesics: Uncovering Human Mobility Distributions and Anomalies with an Integrated Statistical and Neural Framework"
+         authors: "Minxuan Duan, Yinlong Qian, Lingyi Zhao, Zihao Zhou, Zeeshan Rasheed, Rose Yu and Khurram Shafique"
+         time: "10:10-10:25"
+         file: "paper_9.pdf" 
+       - title: "Neural Collaborative Filtering to Detect Anomalies in Human Semantic Trajectories"
+         authors: "Yueyang Liu, Lance Kennedy, Hossein Amiri and Andreas Züfle"
+         time: "10:25-10:40"
+         file: "paper_11.pdf"
+       - title: "Break"
+         time: "10:45-11:00"
+       - title: "Research Session 3: Trajectory and Behavior Anomaly Detection"
+         #time: "11:00-12:00" 
+       - title: "Context-aware Trajectory Anomaly Detection"
+         authors: "Haoji Hu, Jina Kim, Jinwei Zhou, Sofia Kirsanova, Janghyeon Lee and Yao-Yi Chiang"
+         time: "11:00-11:10"
+         file: "paper_2.pdf"
+       - title: "Spatial disease anomaly detection under sparse data with stability metrics"
+         authors: "Raphaella Diniz, Renato Assuncao and Pedro Vaz-de-Melo"
+         time: "11:11-11:25"
+         file: "paper_6.pdf"
+       - title: "Large Language Models for Spatial Trajectory Patterns Mining"
+         authors: "Zheng Zhang, Hossein Amiri, Zhenke Liu, Liang Zhao and Andreas Züfle"
+         time: "11:25-11:35"
+         file: "paper_8.pdf"
+       - title: "Deep Learning for Antarctic Sea Ice Anomaly Detection and Prediction: A Two-Module Framework"
+         authors: "Maloy Kumar Devnath, Sudip Chakraborty and Vandana P. Janeja"
+         time: "11:35-11:45"
+         file: "paper_12.pdf"
+       - title: "Kinematic Detection of Anomalies in Human Trajectory Data"
+         authors: "Lance Kennedy and Andreas Züfle"
+         time: "11:45-11:55"
+         file: "paper_14.pdf"
+       - title: "Closing Remarcs"
+         time: "11:55-12:00"
+
+         
+            
+# cover: https://pixabay.com/photos/buildings-city-night-street-lights-4829076/

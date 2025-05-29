@@ -1,0 +1,50 @@
+<h2 class="section-title"><img src="{{ .big_logo }}" height="100px"> {{ .titles.intro }}</h2>
+
+<div class="notification">
+  <h1>Important Notice</h1>
+  <p>The 2nd ACM SIGSPATIAL International Workshop on Geospatial Anomaly Detection (GeoAnomalies'25) has moved to a new website.</p>
+  <p>Please visit us at our new location: <a href="https://geoanomalies.github.io/">https://geoanomalies.github.io/</a></p>
+</div>
+
+<style>
+  /* Optional: You might want to include these styles or adapt them to your Hugo site's CSS */
+  .notification {
+    padding: 25px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    max-width: 800px;
+    margin: 20px auto; /* Center the block if it's a standalone section */
+    text-align: center;
+  }
+  .notification h1 {
+    font-size: 3.5em;
+    color: #333;
+    margin-top: 0; /* Remove top margin if it's the first element in the div */
+    margin-bottom: 15px;
+  }
+  .notification p {
+    font-size: 2em;
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  .notification p:last-child {
+    margin-bottom: 0; /* Remove bottom margin from the last paragraph */
+  }
+  .notification a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  .notification a:hover {
+    text-decoration: underline;
+  }
+</style>
+
+
+
+
+<p itemprop="description">{{ .intro.text }}</p>
+
